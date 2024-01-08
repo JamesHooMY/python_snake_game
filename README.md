@@ -10,5 +10,11 @@ To start the game, run the following command in the terminal:
 
     python main.py
 
+Play the game with arrow keys:
+1. `↑` to move up
+2. `↓` to move down
+3. `←` to move left
+4. `→` to move right
+
 # Development tools
 - Python 3.12.0
